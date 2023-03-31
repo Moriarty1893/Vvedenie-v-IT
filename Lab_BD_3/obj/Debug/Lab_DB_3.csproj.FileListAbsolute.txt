@@ -1,0 +1,16 @@
+C:\Users\Bulat\Desktop\Мои проекты\Лабораторные\Введение в it\Lab_DB_3\bin\Debug\Sale1 (1).mdf
+C:\Users\Bulat\Desktop\Мои проекты\Лабораторные\Введение в it\Lab_DB_3\bin\Debug\Sale1 (1)_log.ldf
+C:\Users\Bulat\Desktop\Мои проекты\Лабораторные\Введение в it\Lab_DB_3\bin\Debug\Lab_DB_3.exe.config
+C:\Users\Bulat\Desktop\Мои проекты\Лабораторные\Введение в it\Lab_DB_3\bin\Debug\Lab_DB_3.exe
+C:\Users\Bulat\Desktop\Мои проекты\Лабораторные\Введение в it\Lab_DB_3\bin\Debug\Lab_DB_3.pdb
+C:\Users\Bulat\Desktop\Мои проекты\Лабораторные\Введение в it\Lab_DB_3\obj\Debug\Lab_DB_3.csproj.AssemblyReference.cache
+C:\Users\Bulat\Desktop\Мои проекты\Лабораторные\Введение в it\Lab_DB_3\obj\Debug\Lab_DB_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bulat\Desktop\Мои проекты\Лабораторные\Введение в it\Lab_DB_3\obj\Debug\Lab_DB_3.Form1.resources
+C:\Users\Bulat\Desktop\Мои проекты\Лабораторные\Введение в it\Lab_DB_3\obj\Debug\Lab_DB_3.Form2.resources
+C:\Users\Bulat\Desktop\Мои проекты\Лабораторные\Введение в it\Lab_DB_3\obj\Debug\Lab_DB_3.Form3.resources
+C:\Users\Bulat\Desktop\Мои проекты\Лабораторные\Введение в it\Lab_DB_3\obj\Debug\Lab_DB_3.Form4.resources
+C:\Users\Bulat\Desktop\Мои проекты\Лабораторные\Введение в it\Lab_DB_3\obj\Debug\Lab_DB_3.Properties.Resources.resources
+C:\Users\Bulat\Desktop\Мои проекты\Лабораторные\Введение в it\Lab_DB_3\obj\Debug\Lab_DB_3.csproj.GenerateResource.cache
+C:\Users\Bulat\Desktop\Мои проекты\Лабораторные\Введение в it\Lab_DB_3\obj\Debug\Lab_DB_3.csproj.CoreCompileInputs.cache
+C:\Users\Bulat\Desktop\Мои проекты\Лабораторные\Введение в it\Lab_DB_3\obj\Debug\Lab_DB_3.exe
+C:\Users\Bulat\Desktop\Мои проекты\Лабораторные\Введение в it\Lab_DB_3\obj\Debug\Lab_DB_3.pdb
